@@ -18,37 +18,17 @@ h1 {
   font-style: italic; 
   font-size: 3em; 
 }
-h2{
-  font-family: 'Times New Roman', Times, serif;
-  font-size: x-large;
-  font-weight: bold;
-}
-h3{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: larger;
 
-}
+
 
 p{
   font-family: 'Times New Roman', Times, serif;
   text-indent: 5%;
 }
-li{
-  font-family: 'Times New Roman', Times, serif;
-}
+
 
 main { padding-left: 2em;
     padding-right: 2em;
     padding-bottom: 2em;
     display: block; 
-}
-
-
-.details { padding-left: 20%;
-        padding-right: 20%;
-}
-.center { display: block;
-  margin-left: auto;
-       margin-right: auto;
-  width: 50%
 }
