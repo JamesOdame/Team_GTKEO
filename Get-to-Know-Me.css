@@ -5,15 +5,7 @@ body { background-color: #dfd9d9;
     font-family: Verdana, Arial, sans-serif;
     background-image: url(background.gif);
 }
-#wrapper { background-color: #b9784d;
-  
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-  min-width: 900px;
-  max-width: 1280px;
-  box-shadow: 1px 1px 5px 5px  #666666; 
-}
+
 header { background-color: #c4a9e7;
      height: auto;
      text-align: center;
